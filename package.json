@@ -1,0 +1,23 @@
+{
+  "name": "diabeticanalyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "brain.js": "^2.0.0-beta.2",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "md5": "^2.3.0",
+    "mongoose": "^5.12.3",
+    "node-mind": "^1.0.1",
+    "scale-number-range": "^1.0.3"
+  }
+}

@@ -1,0 +1,115 @@
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+    background-color:#F7C5CC;
+}
+.navbar-brand
+{
+    font-size: 25px;
+    color:#CC313D;
+}
+
+.nav-item a
+{
+    color: #CC313D;
+}
+
+.nav-item a:hover {
+    color: #FFFFFF !important;
+}
+
+.footer-padding {
+	padding-bottom: 60px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	background-color: #990011;
+}
+
+.footer p {
+	margin-top: 25px;
+	font-size: 12px;
+  color: #FCF6F5;
+}
+.register
+{
+    position: relative;
+    left:35%;
+    margin-top: 2%;
+    border: #ccc 1px solid;
+    border-radius: 4px;
+    width: 30%;
+    height: auto;
+
+}
+.register-info
+{
+    text-align: center;
+    margin: 5%;
+}
+.logo
+{
+    color: #CC313D;
+}
+.header
+{
+    margin-top: 18%;
+    text-align: center;
+    line-height: 5rem;
+    font-family: 'Pacifico', cursive;
+
+}
+small a{
+    text-decoration: none;
+    color: #CC313D;
+}
+.contactDetails
+{
+    font-size: 1.2rem;
+}
+.userFirstPageBtns
+{
+    text-align: center;
+    display: inline;
+}
+.btn.nav-link
+{
+    color:rgb(209, 209, 209);
+    letter-spacing: 1px;
+    padding: 5px 7px;
+}
+.header a{
+    font-family: Arial;
+}
+body{
+    background-color: #FCF6F5;
+}
+.header{
+    color: #990011;
+}
+#error
+{
+    text-align: left;
+    color: red;
+    font-size: 12px;
+
+}
+.checker-form
+{
+    margin-right: 70%;
+}
